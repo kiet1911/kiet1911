@@ -23,7 +23,7 @@
 
 - Role : Developer (FullStack Dev)
 
-🔭 I’m currently working on [project RestFul API cho website bán vé máy bay](https://github.com/HuyLieu1603/DAQLKS-CNPMNC)
+🔭 I’m currently working on [project RestFul API cho website bán vé máy bay](https://github.com/kiet1911/FlightAPIs)
 
 - Role : Developer (FullStack Dev)
 
