@@ -3,13 +3,13 @@
 </div>
 
 <h1 align="left">Hi 👋, I'm Nguyen Tuan Kiet</h1>
-<h3 align="left">A frontend developer from Viet Nam</h3>
+<h3 align="left">A backend .Net developer from Viet Nam</h3>
 
 -  👩🏻‍💻 Software Engineer sharing about my journey and learnings in tech
 
 -  👩🏻‍🎓 Studied Software Engineer at the Ho Chi Minh City University of Foreign Languages – Information Technology
 
-- 🌱 I’m currently learning **.Net Core , Angular**
+- 🌱 I’m currently learning **.Net Core , C#**
 
 - 💬 Ask me about **SQL Server , HTML , CSS3 , JS6**
 
