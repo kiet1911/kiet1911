@@ -19,11 +19,11 @@
 
 <h3 align="left">Working on</h3>
 
-🔭 I’m currently working on [project bán vé máy bay](https://github.com/kenlyer/Scrum_nhom4)
+🔭 I’m currently working on [project bán vé máy bay](https://github.com/kiet1911/FlightTicket)
 
-- Role : Developer (Backend Dev)
+- Role : Developer (FullStack Dev)
 
-🔭 I’m currently working on [project cho thuê phòng khách sạn](https://github.com/HuyLieu1603/DAQLKS-CNPMNC)
+🔭 I’m currently working on [project RestFul API cho website bán vé máy bay](https://github.com/HuyLieu1603/DAQLKS-CNPMNC)
 
 - Role : Developer (FullStack Dev)
 
