@@ -1,6 +1,3 @@
-<div align="center">
-    <img src="https://scontent.fsgn5-10.fna.fbcdn.net/v/t39.30808-1/298621076_2918245051809206_3363803414781114618_n.jpg?stp=dst-jpg_s200x200_tt6&_nc_cat=110&ccb=1-7&_nc_sid=1d2534&_nc_eui2=AeGGCijlqBUltrG71i6hUWY2KQjgVh6Xm_IpCOBWHpeb8uxRYKRcmanduKqJyMqNNmR-xIOAU7juI-tkvrXMHfF9&_nc_ohc=AYCJObV_dRgQ7kNvwE5j_5z&_nc_oc=AdkRuxbYBOL9MyMonUgdAGZsdJ1Jke_LeqB47lnrJgp0KA_i4hUXPdAqpiZe6z6F3o8QXmeAs3GK-q8ui29H2qh1&_nc_zt=24&_nc_ht=scontent.fsgn5-10.fna&_nc_gid=irCWmyRiAcsk5j3skVF5PA&oh=00_AfT0aET0LoRqTQDccWU3JmhhyEF942ZZSdHfrJA1v5N-HA&oe=688C043E" alt="Circular Image" style="width:150px; height:150px; border-radius:80%; object-fit:cover;">
-</div>
 
 <h1 align="left">Hi 👋, I'm Nguyen Tuan Kiet</h1>
 <h3 align="left">A backend .Net developer from Viet Nam</h3>
