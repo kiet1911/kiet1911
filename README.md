@@ -1,54 +1,63 @@
+<h1 align="center">👋 Hi, I'm Nguyen Tuan Kiet</h1>
+<h3 align="center">🚀 Aspiring .NET Backend Developer | Ho Chi Minh City, Viet Nam</h3>
 
-<h1 align="left">Hi 👋, I'm Nguyen Tuan Kiet</h1>
-<h3 align="left">A backend .Net developer from Viet Nam</h3>
+---
 
--  👩🏻‍💻 Software Engineer sharing about my journey and learnings in tech
+### 👨‍💻 About Me
+- 🎓 Software Engineering student at **Ho Chi Minh City University of Foreign Languages – Information Technology**  
+- 🌱 Currently learning **.NET Core, C#**  
+- 💡 Interested in **Backend Development, SQL Databases, and System Design**  
+- 📬 Reach me at **nguyentuankiet19112002@gmail.com**  
+- ⚡ Fun fact: *I love exploring new tech and building real-world projects*  
 
--  👩🏻‍🎓 Studied Software Engineer at the Ho Chi Minh City University of Foreign Languages – Information Technology
+---
 
-- 🌱 I’m currently learning **.Net Core , C#**
+### 🔭 Projects
+- ✈️ [**Flight Ticket Booking System**](https://github.com/kiet1911/FlightTicket)  
+  *Role: Fullstack Developer* – A web app for booking flight tickets with user authentication and payment flow.  
 
-- 💬 Ask me about **SQL Server , HTML , CSS3 , JS6**
+- 🛠️ [**Flight Ticket RESTful API**](https://github.com/kiet1911/FlightAPIs)  
+  *Role: Backend Developer* – REST APIs for booking, managing flights, and authentication using **ASP.NET Core + SQL Server**.  
 
-- 📫 How to reach me **nguyentuankiet19112002@gmail.com**
+---
 
-- ⚡ Fun fact **I love learning**
+### 💻 Tech Stack
+**Languages & Core Skills**  
+![C#](https://img.shields.io/badge/-C%23-239120?style=flat&logo=c-sharp&logoColor=white)  
+![JavaScript](https://img.shields.io/badge/-JavaScript-F7DF1E?style=flat&logo=javascript&logoColor=black)  
+![HTML5](https://img.shields.io/badge/-HTML5-E34F26?style=flat&logo=html5&logoColor=white)  
+![CSS3](https://img.shields.io/badge/-CSS3-1572B6?style=flat&logo=css3&logoColor=white)  
 
-<h3 align="left">Working on</h3>
+**Frameworks & Platforms**  
+![.NET](https://img.shields.io/badge/-.NET-512BD4?style=flat&logo=dotnet&logoColor=white)  
+![Node.js](https://img.shields.io/badge/-Node.js-339933?style=flat&logo=node.js&logoColor=white)  
+![Bootstrap](https://img.shields.io/badge/-Bootstrap-7952B3?style=flat&logo=bootstrap&logoColor=white)  
 
-🔭 I’m currently working on [project bán vé máy bay](https://github.com/kiet1911/FlightTicket)
+**Databases & Tools**  
+![SQL Server](https://img.shields.io/badge/-SQL%20Server-CC2927?style=flat&logo=microsoft-sql-server&logoColor=white)  
+![Firebase](https://img.shields.io/badge/-Firebase-FFCA28?style=flat&logo=firebase&logoColor=black)  
+![Selenium](https://img.shields.io/badge/-Selenium-43B02A?style=flat&logo=selenium&logoColor=white)  
 
-- Role : Developer (FullStack Dev)
+---
 
-🔭 I’m currently working on [project RestFul API cho website bán vé máy bay](https://github.com/kiet1911/FlightAPIs)
+### 💾 Experience
+- 👨‍💼 **Collaborator – QA/Testing**  
+  [OneBlock Labs](https://blockbase.co/) (Blockchain Company)  
+  - Supported testing tasks for blockchain-based projects.  
+  - Gained experience in teamwork and agile workflow.  
 
-- Role : Developer (FullStack Dev)
+---
 
-<h3 align="left">My Github stats</h3>
+### 📊 GitHub Stats
+![GitHub Stats](https://github-readme-stats.vercel.app/api?username=kiet1911&show_icons=true&theme=tokyonight)  
+![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=kiet1911&layout=compact&theme=tokyonight)  
 
- ![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=kiet1911&show_icons=true&theme=transparent)</br>
+---
 
-
-<h3 align="left">Connect with me:</h3>
-<p align="left">
-<a href="https://fb.com/kenlyer1911" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/facebook.svg" alt="kenlyer1911" height="30" width="40" /></a>
-</p>
-<h1 align="left">💻 Tech Stack</h1>
-<a href="https://www.w3schools.com/cs/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/csharp/csharp-original.svg" alt="csharp" width="25" height="25"/> </a>
-&nbsp;
-<a href="https://developer.mozilla.org/en-US/docs/Web/JavaScript" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-original.svg" alt="javascript" width="25" height="25"/></a>&nbsp;
-<a href="https://www.w3schools.com/css/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original-wordmark.svg" alt="css3" width="25" height="25"/> </a>&nbsp;
-<a href="https://www.w3.org/html/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original-wordmark.svg" alt="html5" width="25" height="25"/> </a> &nbsp;
-<a href="https://sass-lang.com" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/sass/sass-original.svg" alt="sass" width="25" height="25"/> </a>&nbsp;
-<a href="https://getbootstrap.com" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/bootstrap/bootstrap-plain-wordmark.svg" alt="bootstrap" width="25" height="25"/> </a> &nbsp;
-<h1 align="left">📚 Frameworks, Platforms and Libraries</h1>
-<a href="https://nodejs.org" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/nodejs/nodejs-original-wordmark.svg" alt="nodejs" width="25" height="25"/> </a>&nbsp;
-<a href="https://www.microsoft.com/en-us/sql-server" target="_blank" rel="noreferrer"> <img src="https://www.svgrepo.com/show/303229/microsoft-sql-server-logo.svg" alt="mssql" width="25" height="25"/> </a> &nbsp;
-<a href="https://firebase.google.com/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/firebase/firebase-icon.svg" alt="firebase" width="25" height="25"/> </a>&nbsp;
-<a href="https://www.selenium.dev" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/detain/svg-logos/780f25886640cef088af994181646db2f6b1a3f8/svg/selenium-logo.svg" alt="selenium" width="25" height="25"/></a>&nbsp;
-<a href="" target="_blank" rel=""> <img src="https://camo.githubusercontent.com/f4c52b575a890c7e67c6541271fc5733506088d19c77ffde6bab3e18e7948536/68747470733a2f2f696d672e736869656c64732e696f2f62616467652f2e4e45542d3543324439313f7374796c653d666f722d7468652d6261646765266c6f676f3d2e6e6574266c6f676f436f6c6f723d7768697465" alt="nodejs" width="25" height="25"/> </a>&nbsp;
-<h3 align="left"></h1>
-<h1 align="left">💾 Work History</h1>
-
-- Formerly a collaborator in the testing team of the block chain company (oneblock labs) &nbsp;  <a href="https://blockbase.co/" target="_blank" rel="noreferrer"> <img src="https://static.topcv.vn/company_logos/cong-ty-co-phan-oneblock-labs-61d7c8c0dd466.jpg" alt="" width="25" height="25"/> </a>
-
+### 🌐 Connect with Me
+<a href="https://fb.com/kenlyer1911" target="_blank">
+  <img src="https://img.shields.io/badge/Facebook-1877F2?style=flat&logo=facebook&logoColor=white" />
+</a>
+<a href="mailto:nguyentuankiet19112002@gmail.com">
+  <img src="https://img.shields.io/badge/Email-D14836?style=flat&logo=gmail&logoColor=white" />
+</a>
