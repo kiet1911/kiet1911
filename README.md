@@ -1,15 +1,14 @@
 <h1 align="center">👋 Hi, I'm Nguyen Tuan Kiet</h1>
-<h3 align="center">🚀 Aspiring .NET Backend Developer | Ho Chi Minh City, Viet Nam</h3>
+<h3 align="center">🚀 Aspiring FullStack (.NET and ReactJS) Developer | Ho Chi Minh City, Viet Nam</h3>
 
 ---
 
 ### 👨‍💻 About Me
-- 🎓 Software Engineering student at **Ho Chi Minh City University of Foreign Languages – Information Technology**  
+- 🎓 Software Engineering student at **Ho Chi Minh City University of Foreign Languages – Information Technology** with GPA 3.19/4.0
 - 🌱 Currently learning **.NET Core, C#, ReactJS&Vite**  
 - 💡 Interested in **Backend Development, SQL Databases, and UI/UX**  
-- 📬 Reach me at **nguyentuankiet19112002@gmail.com**  
-- ⚡ Fun fact: *I love exploring new tech and building real-world projects*  
-
+- 📬 Reach me at **nguyentuankiet19112002@gmail.com**
+- ⚡ Fun fact: *I love exploring new tech and building real-world projects* 
 ---
 
 ### 🔭 Projects
