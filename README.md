@@ -5,8 +5,8 @@
 
 ### 👨‍💻 About Me
 - 🎓 Software Engineering student at **Ho Chi Minh City University of Foreign Languages – Information Technology**  
-- 🌱 Currently learning **.NET Core, C#, Angular(20)**  
-- 💡 Interested in **Backend Development, SQL Databases, and System Design**  
+- 🌱 Currently learning **.NET Core, C#, ReactJS&Vite**  
+- 💡 Interested in **Backend Development, SQL Databases, and UI/UX**  
 - 📬 Reach me at **nguyentuankiet19112002@gmail.com**  
 - ⚡ Fun fact: *I love exploring new tech and building real-world projects*  
 
