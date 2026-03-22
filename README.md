@@ -29,14 +29,9 @@
 
 **Frameworks & Platforms**  
 ![.NET](https://img.shields.io/badge/-.NET-512BD4?style=flat&logo=dotnet&logoColor=white)  
-![Angular](https://img.shields.io/badge/-Angular-DD0031?style=flat&logo=angular&logoColor=white)  
-![Node.js](https://img.shields.io/badge/-Node.js-339933?style=flat&logo=node.js&logoColor=white)  
-![Bootstrap](https://img.shields.io/badge/-Bootstrap-7952B3?style=flat&logo=bootstrap&logoColor=white)  
 
 **Databases & Tools**  
 ![SQL Server](https://img.shields.io/badge/-SQL%20Server-CC2927?style=flat&logo=microsoft-sql-server&logoColor=white)  
-![Firebase](https://img.shields.io/badge/-Firebase-FFCA28?style=flat&logo=firebase&logoColor=black)  
-![Selenium](https://img.shields.io/badge/-Selenium-43B02A?style=flat&logo=selenium&logoColor=white)  
 
 ---
 
@@ -44,8 +39,13 @@
 - 👨‍💼 **Collaborator – QA/Testing**  
   [OneBlock Labs](https://blockbase.co/) (Blockchain Company)  
   - Supported testing tasks for blockchain-based projects.  
-  - Gained experience in teamwork and agile workflow.  
-
+  - Gained experience in teamwork and agile workflow.
+- 👨‍💼 **Web developer - frontend intern**
+  - Developed interactive user interfaces using ReactJS (functional components, hooks) and Tailwind CSS for a 3D model interaction platform.
+  - Built reusable components (modals, forms, buttons, cards) ensuring consistency across the application.
+  - Implemented dynamic form features for Quiz and Checklist creation, handling complex state logic and input validation.
+  - Optimized Publish page performance using React.memo, useCallback, lazy loading.
+  - Maintained project source code with Git (clone, add, commit, push, resolve conflicts).
 ---
 
 ### 📊 GitHub Stats
