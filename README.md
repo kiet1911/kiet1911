@@ -36,10 +36,6 @@
 ---
 
 ### 💾 Experience
-- 👨‍💼 **Collaborator – QA/Testing**  
-  [OneBlock Labs](https://blockbase.co/) (Blockchain Company)  
-  - Supported testing tasks for blockchain-based projects.  
-  - Gained experience in teamwork and agile workflow.
 - 👨‍💼 **Web developer - frontend intern**
   - Developed interactive user interfaces using ReactJS (functional components, hooks) and Tailwind CSS for a 3D model interaction platform.
   - Built reusable components (modals, forms, buttons, cards) ensuring consistency across the application.
