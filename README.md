@@ -1,59 +1,73 @@
 <h1 align="center">👋 Hi, I'm Nguyen Tuan Kiet</h1>
-<h3 align="center">🚀 Aspiring FullStack (.NET and ReactJS) Developer | Ho Chi Minh City, Viet Nam</h3>
+<h3 align="center">FullStack Developer (.NET + ReactJS) | Ho Chi Minh City, Vietnam</h3>
+
+<p align="center">
+  <a href="https://fb.com/kenlyer1911" target="_blank">
+    <img src="https://img.shields.io/badge/Facebook-1877F2?style=for-the-badge&logo=facebook&logoColor=white" />
+  </a>
+  <a href="mailto:nguyentuankiet19112002@gmail.com">
+    <img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white" />
+  </a>
+  <img src="https://komarev.com/ghpvc/?username=kiet1911&label=Profile%20Views&color=0e75b6&style=flat" alt="kiet1911" />
+</p>
 
 ---
 
-### 👨‍💻 About Me
-- 🎓 Software Engineering student at **Ho Chi Minh City University of Foreign Languages – Information Technology** with GPA 3.19/4.0
-- 🌱 Currently learning **.NET Core, C#, ReactJS&Vite**  
-- 💡 Interested in **Backend Development, SQL Databases, and UI/UX**  
-- 📬 Reach me at **nguyentuankiet19112002@gmail.com**
-- ⚡ Fun fact: *I love exploring new tech and building real-world projects* 
----
+## 📌 About Me
 
-### 🔭 Projects
-- ✈️ [**Flight Ticket Booking System**](https://github.com/kiet1911/FlightTicket)  
-  *Role: Fullstack Developer* – A web app for booking flight tickets with user authentication and payment flow.  
-
-- 🛠️ [**Flight Ticket RESTful API**](https://github.com/kiet1911/FlightAPIs)  
-  *Role: Backend Developer* – REST APIs for booking, managing flights, and authentication using **ASP.NET Core + SQL Server**.  
+- 🎓 Software Engineering student at **Ho Chi Minh City University of Foreign Languages – Information Technology**  
+  *GPA: 3.19/4.0*
+- 🌱 Currently deepening my expertise in **.NET Core, C#, ReactJS & Vite**
+- 💡 Passionate about **Backend Development, Database Design, and UI/UX**
+- 📫 Reach me at **nguyentuankiet19112002@gmail.com**
+- ⚡ Fun fact: *I love turning ideas into real-world projects*
 
 ---
 
-### 💻 Tech Stack
-**Languages & Core Skills**  
-![C#](https://img.shields.io/badge/-C%23-239120?style=flat&logo=c-sharp&logoColor=white)  
-![JavaScript](https://img.shields.io/badge/-JavaScript-F7DF1E?style=flat&logo=javascript&logoColor=black)  
-![HTML5](https://img.shields.io/badge/-HTML5-E34F26?style=flat&logo=html5&logoColor=white)  
-![CSS3](https://img.shields.io/badge/-CSS3-1572B6?style=flat&logo=css3&logoColor=white)  
+## 🔭 Featured Projects
 
-**Frameworks & Platforms**  
-![.NET](https://img.shields.io/badge/-.NET-512BD4?style=flat&logo=dotnet&logoColor=white)  
-
-**Databases & Tools**  
-![SQL Server](https://img.shields.io/badge/-SQL%20Server-CC2927?style=flat&logo=microsoft-sql-server&logoColor=white)  
+| Project | Role | Description |
+|---------|------|-------------|
+| ✈️ [Flight Ticket Booking System](https://github.com/kiet1911/FlightTicket) | Fullstack Developer | Web app for booking flights with user authentication and payment flow. |
+| 🛠️ [Flight Ticket RESTful API](https://github.com/kiet1911/FlightAPIs) | Backend Developer | REST APIs for booking, flight management, and authentication using ASP.NET Core + SQL Server. |
 
 ---
 
-### 💾 Experience
-- 👨‍💼 **Web developer - frontend intern**
-  - Developed interactive user interfaces using ReactJS (functional components, hooks) and Tailwind CSS for a 3D model interaction platform.
-  - Built reusable components (modals, forms, buttons, cards) ensuring consistency across the application.
-  - Implemented dynamic form features for Quiz and Checklist creation, handling complex state logic and input validation.
-  - Optimized Publish page performance using React.memo, useCallback, lazy loading.
-  - Maintained project source code with Git (clone, add, commit, push, resolve conflicts).
----
+## 💻 Tech Stack
 
-### 📊 GitHub Stats
-![GitHub Stats](https://github-readme-stats.vercel.app/api?username=kiet1911&show_icons=true&theme=tokyonight)  
-![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=kiet1911&layout=compact&theme=tokyonight)  
+| Category | Technologies |
+|----------|--------------|
+| **Languages** | ![C#](https://img.shields.io/badge/-C%23-239120?style=flat-square&logo=c-sharp&logoColor=white) ![JavaScript](https://img.shields.io/badge/-JavaScript-F7DF1E?style=flat-square&logo=javascript&logoColor=black) ![HTML5](https://img.shields.io/badge/-HTML5-E34F26?style=flat-square&logo=html5&logoColor=white) ![CSS3](https://img.shields.io/badge/-CSS3-1572B6?style=flat-square&logo=css3&logoColor=white) |
+| **Frameworks & Libraries** | ![.NET](https://img.shields.io/badge/-.NET-512BD4?style=flat-square&logo=dotnet&logoColor=white) ![React](https://img.shields.io/badge/-React-61DAFB?style=flat-square&logo=react&logoColor=black) ![Tailwind CSS](https://img.shields.io/badge/-Tailwind_CSS-06B6D4?style=flat-square&logo=tailwind-css&logoColor=white) |
+| **Databases** | ![SQL Server](https://img.shields.io/badge/-SQL%20Server-CC2927?style=flat-square&logo=microsoft-sql-server&logoColor=white) |
+| **Tools** | ![Git](https://img.shields.io/badge/-Git-F05032?style=flat-square&logo=git&logoColor=white) ![GitHub](https://img.shields.io/badge/-GitHub-181717?style=flat-square&logo=github) |
 
 ---
 
-### 🌐 Connect with Me
-<a href="https://fb.com/kenlyer1911" target="_blank">
-  <img src="https://img.shields.io/badge/Facebook-1877F2?style=flat&logo=facebook&logoColor=white" />
-</a>
-<a href="mailto:nguyentuankiet19112002@gmail.com">
-  <img src="https://img.shields.io/badge/Email-D14836?style=flat&logo=gmail&logoColor=white" />
-</a>
+## 💼 Work Experience
+
+**Frontend Developer Intern** (Web Developer)  
+- Built interactive UIs with ReactJS (functional components, hooks) and Tailwind CSS for a 3D model interaction platform.
+- Created reusable components (modals, forms, buttons, cards) ensuring UI consistency across the application.
+- Implemented dynamic Quiz & Checklist creation forms with complex state logic and input validation.
+- Optimized page performance using `React.memo`, `useCallback`, and lazy loading.
+- Maintained source code with Git (clone, add, commit, push, conflict resolution).
+
+---
+
+## 📊 GitHub Analytics
+
+<div align="center">
+  <img height="180em" src="https://github-readme-stats.vercel.app/api?username=kiet1911&show_icons=true&theme=tokyonight&include_all_commits=true&count_private=true" />
+  <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=kiet1911&layout=compact&theme=tokyonight" />
+</div>
+
+---
+
+## 🤝 Let's Connect
+
+I'm always open to collaborating on interesting projects or discussing tech. Feel free to reach out via email or Facebook!
+
+<p align="center">
+  <i>“Code is like humor. When you have to explain it, it’s bad.” – Cory House</i>
+</p>
