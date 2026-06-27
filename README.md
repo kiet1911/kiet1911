@@ -1,172 +1,95 @@
 <h1 align="center">Nguyen Tuan Kiet</h1>
 
 <p align="center">
-Full-Stack Developer (.NET & React) | Ho Chi Minh City, Vietnam
+Full-Stack Developer (.NET • React • TypeScript)
 </p>
 
 <p align="center">
   <a href="mailto:nguyentuankiet19112002@gmail.com">
-    <img src="https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white" />
+    <img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white"/>
   </a>
-  <a href="https://fb.com/kenlyer1911">
-    <img src="https://img.shields.io/badge/Facebook-1877F2?style=for-the-badge&logo=facebook&logoColor=white" />
+  <a href="https://linkedin.com/in/tuankietnguyen1911">
+    <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin"/>
   </a>
-  <img src="https://komarev.com/ghpvc/?username=kiet1911&style=for-the-badge" />
+  <a href="https://github.com/kiet1911">
+    <img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github"/>
+  </a>
 </p>
 
 ---
 
-# About Me
+## About Me
 
-Software Engineering graduate passionate about building scalable web applications using **ASP.NET Core** and **React**.
+Software Engineering graduate passionate about building scalable web applications with **ASP.NET Core** and **React**.
 
-I enjoy designing maintainable backend architectures, creating responsive user interfaces, and solving real-world engineering problems through clean code and thoughtful system design.
+- 🎓 HUFLIT — GPA **3.19 / 4.0**
+- 💻 Interested in Full-stack, Backend and Frontend Development
+- 🌱 Currently learning Software Architecture & System Design
+- 🇬🇧 TOEIC 760
 
-- 🌱 Currently improving my knowledge of ASP.NET Core, React, and software architecture.
-- 💼 Interested in Full-stack, Backend, and Frontend Software Engineering roles.
-- 📧 Email: **nguyentuankiet19112002@gmail.com**
+---
+
+# Tech Stack
+
+| Category | Technologies |
+|-----------|--------------|
+| **Languages** | C#, JavaScript, TypeScript |
+| **Frontend** | React, Vite, Tailwind CSS, React Router DOM, Axios, Zustand, TanStack Query |
+| **Backend** | ASP.NET Core Web API, ASP.NET MVC, Entity Framework Core, JWT Authentication |
+| **Database** | SQL Server |
+| **Tools** | Git, GitHub, SignalR, Hangfire |
+| **Others** | REST API, Responsive Design, User Research, Presentation, Self-learning |
 
 ---
 
 # Featured Projects
 
-## 🎲 BoardGame E-Commerce Platform
+| Project | Technologies | Highlights |
+|----------|--------------|------------|
+| **🎲 BoardGame E-Commerce** | React, ASP.NET Core API, SQL Server, VNPAY | JWT Authentication, Refresh Token, Admin Dashboard, Product Reservation Token, Real-time Cart, Table Booking, TanStack Query |
+| **✈ Airline Booking System** | ASP.NET MVC, EF Core, SQL Server, SignalR, Hangfire | Real-time Seat Booking, Payment Flow, Admin Dashboard, PDF Ticket Export, Query Optimization |
+| **🛠 Flight RESTful API** | ASP.NET Core Web API, SQL Server | Authentication, Booking Management, Flight Management |
 
-**Tech Stack**
+### GitHub
 
-React • TypeScript • Tailwind CSS • ASP.NET Core Web API • SQL Server • TanStack Query • Zustand • JWT • VNPAY
-
-**GitHub**
-
-https://github.com/kiet1911/ProjectBoard
-
-### Highlights
-
-- Built a full-stack e-commerce platform for board games.
-- Implemented JWT Authentication with Access Token and Refresh Token.
-- Integrated VNPAY online payment gateway.
-- Developed snapshot-based reservation tokens to prevent inventory conflicts during checkout.
-- Built real-time shopping cart and favorites synchronization.
-- Created an Admin Dashboard for managing products, users, orders, payments, and analytics.
-- Designed a real-time table booking system allowing customers to discover and join existing groups.
-- Improved application performance using TanStack Query for caching and request deduplication.
-- Built reusable Alert, Confirmation Dialog, and Toast Notification components.
+- 🎲 https://github.com/kiet1911/ProjectBoard
+- ✈ https://github.com/kiet1911/FlightTicket
+- 🛠 https://github.com/kiet1911/FlightAPIs
 
 ---
 
-## ✈ Flight Ticket Booking System
+# Professional Experience
 
-**Tech Stack**
+### Frontend Developer Intern | PloggVN *(Sep 2025 – Jan 2026)*
 
-React • ASP.NET Core • SQL Server
-
-GitHub:
-https://github.com/kiet1911/FlightTicket
-
-### Highlights
-
-- Flight booking workflow
-- Authentication & Authorization
-- Payment integration
-- Responsive UI
-- RESTful architecture
+- Developed **8+ responsive pages** using React & Tailwind CSS.
+- Built dynamic Quiz & Checklist modules.
+- Developed interactive **Three.js** visualization features.
+- Improved rendering performance using **React.memo** and **useCallback**.
+- Collaborated with backend developers using Git workflow.
 
 ---
 
-## ✈ Flight Ticket RESTful API
-
-**Tech Stack**
-
-ASP.NET Core Web API • Entity Framework Core • SQL Server
-
-GitHub
-
-https://github.com/kiet1911/FlightAPIs
-
-### Highlights
-
-- RESTful APIs
-- JWT Authentication
-- Flight Management
-- Booking Management
-- SQL Server Integration
-
----
-
-# Technical Skills
-
-## Languages
-
-- C#
-- JavaScript
-- TypeScript
-
-## Frontend
-
-- React (Vite)
-- Tailwind CSS
-- Axios
-- React Router DOM
-- Zustand
-- TanStack Query
-
-## Backend
-
-- ASP.NET Core Web API
-- ASP.NET MVC
-- Entity Framework Core
-- RESTful API
-- JWT Authentication
-
-## Database
-
-- SQL Server
-
-## Tools
-
-- Git
-- GitHub
-- Vite
-
-## Other Skills
-
-- User Research
-- Presentation
-- Self-learning
-- Openness to Feedback
-
----
-
-# Internship Experience
-
-## Frontend Developer Intern
-
-### Responsibilities
-
-- Developed 8+ responsive web pages using React and Tailwind CSS.
-- Built dynamic Quiz and Checklist modules with complex state management.
-- Developed interactive 3D visualization features using Three.js.
-- Reduced unnecessary React re-renders using React.memo and useCallback.
-- Collaborated with developers through Git workflow and code reviews.
-
----
-
-# GitHub Statistics
+# GitHub Stats
 
 <p align="center">
-<img height="180" src="https://github-readme-stats.vercel.app/api?username=kiet1911&show_icons=true&theme=tokyonight"/>
-<img height="180" src="https://github-readme-stats.vercel.app/api/top-langs/?username=kiet1911&layout=compact&theme=tokyonight"/>
+<img height="170" src="https://github-readme-stats.vercel.app/api?username=kiet1911&show_icons=true&theme=tokyonight"/>
+<img height="170" src="https://github-readme-stats.vercel.app/api/top-langs/?username=kiet1911&layout=compact&theme=tokyonight"/>
 </p>
 
 ---
 
-# Contact
+## Current Interests
 
-- Email: **nguyentuankiet19112002@gmail.com**
-- Facebook: https://fb.com/kenlyer1911
+- ASP.NET Core
+- React Ecosystem
+- Clean Architecture
+- Microservices
+- System Design
+- Performance Optimization
 
 ---
 
 <p align="center">
-<i>Always learning. Always building.</i>
+<i>Building practical software with clean architecture and great user experience.</i>
 </p>
