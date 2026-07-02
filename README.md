@@ -72,9 +72,10 @@ Software Engineering graduate passionate about building scalable web application
 
 # GitHub Stats
 
-<p align="center">
-<img height="170" src="https://github-readme-stats.vercel.app/api?username=kiet1911&show_icons=true&theme=tokyonight"/>
-<img height="170" src="https://github-readme-stats.vercel.app/api/top-langs/?username=kiet1911&layout=compact&theme=tokyonight"/>
+<p align="left">
+  <img src="https://streak-stats.demolab.com?user=kiet1911&theme=tokyonight&hide_border=true"/>
+  <img src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=kiet1911&theme=tokyonight"/>
+  <img src="https://github-readme-activity-graph.vercel.app/graph?username=kiet1911&theme=tokyo-night&hide_border=true"/>
 </p>
 
 ---
